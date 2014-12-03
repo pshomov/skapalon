@@ -1,8 +1,13 @@
 {
     "name": "skapalon",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "A command-line program to expand text templates using environment variables",
-    "main": "index.js",
+    "main": "skapalon.js",
+    "keywords": ["cli", "template", "text", "expand"],
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/pshomov/skapalon.git"
+    },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
