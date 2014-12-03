@@ -1,0 +1,21 @@
+{
+    "name": "skapalon",
+    "version": "1.0.2",
+    "description": "A command-line program to expand text templates using environment variables",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "Petar Shomov",
+        "email": "pshomov@gmail.com",
+        "url": "http://twitter.com/pshomov"
+    },
+    "bin": {
+        "skapalon": "./skapalon.js"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "interpolate": "^0.1.0"
+    }
+}
