@@ -1,6 +1,6 @@
 {
     "name": "skapalon",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "A command-line program to expand text templates using environment variables",
     "main": "skapalon.js",
     "keywords": ["cli", "template", "text", "expand"],
